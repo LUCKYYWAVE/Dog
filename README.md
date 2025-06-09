@@ -32,7 +32,7 @@
 ## 五、维护与技术支持
 - **维修检查手册**  
   https://www.yuque.com/ironfatty/ibngax/yv84nk
-- **论文资源库** (100+篇)  
+- **论文资源库**   
   https://drive.weixin.qq.com/s?k=ABcAcQedAAoyHvqLkZ
 
 ![image](https://github.com/user-attachments/assets/172bd63b-ffa5-4f06-b445-2450f01d7cae)
