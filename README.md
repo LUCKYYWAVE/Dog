@@ -35,13 +35,3 @@
 - **论文资源库** (100+篇)  
   https://drive.weixin.qq.com/s?k=ABcAcQedAAoyHvqLkZ
 
-## 六、开发流程
-graph TD
-    A[获取SDK] --> B[连接机器狗]
-    B --> C{开发选项}
-    C --> D[运动控制]
-    C --> E[视觉扩展]
-    C --> F[语音扩展]
-    D --> G[舞蹈/行走/跑动]
-    E --> H[模型部署]
-    F --> I[USB语音模块]
