@@ -35,3 +35,4 @@
 - **论文资源库** (100+篇)  
   https://drive.weixin.qq.com/s?k=ABcAcQedAAoyHvqLkZ
 
+![image](https://github.com/user-attachments/assets/172bd63b-ffa5-4f06-b445-2450f01d7cae)
